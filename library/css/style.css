@@ -626,9 +626,6 @@ Stylesheet: Layout Stylesheet
   max-width: 77.5em;
   margin: 0 auto; }
 
-.container-header {
-  justify-content: space-between; }
-
 .logo-container {
   -webkit-box-flex: 5;
   -webkit-flex: 5;
