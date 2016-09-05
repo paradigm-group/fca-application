@@ -997,6 +997,10 @@ HEADER STYLES
   max-width: 100%;
   height: auto; }
 
+.sidebar-header {
+  text-align: right;
+  align-items: center; }
+
 /*********************
 NAVIGATION STYLES
 *********************/
