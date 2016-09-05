@@ -1004,7 +1004,7 @@ the navs on the site so our css is cleaner
 and more scalable.
 */
 .navigation {
-  background: #323944; }
+  background: #6D7275; }
 
 .nav {
   margin: 0;
@@ -1508,7 +1508,7 @@ SIDEBARS & ASIDES
 FOOTER STYLES
 *********************/
 .footer {
-  background-color: #323944;
+  background-color: #6D7275;
   color: #f8f9fa; }
 
 /* end .footer-links */
