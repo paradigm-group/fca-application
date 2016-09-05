@@ -993,6 +993,10 @@ HEADER STYLES
   .header a {
     color: #fff; }
 
+.logo {
+  max-width: 100%;
+  height: auto; }
+
 /*********************
 NAVIGATION STYLES
 *********************/
