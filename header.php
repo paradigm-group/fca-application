@@ -49,7 +49,7 @@
                     <?php bloginfo('description'); ?>
                 </div>
 
-                <?php // get_sidebar ('header');?>
+                <?php get_sidebar ('header');?>
 
             </div>
 

@@ -630,11 +630,11 @@ Stylesheet: Layout Stylesheet
   justify-content: space-between; }
 
 .logo-container {
-  flex-basis: 50%;
+  flex-basis: 75%;
   padding: 0 1em; }
 
 .sidebar-header {
-  flex-basis: 50%;
+  flex-basis: 25%;
   padding: 0 1em; }
 
 .full {
