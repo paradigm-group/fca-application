@@ -54,6 +54,7 @@ header.php file to see what they are:
 
 */
 
-li + li {
+li + li,
+span+span {
     margin-top: 0;
 }
