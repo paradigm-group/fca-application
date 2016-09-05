@@ -49,6 +49,8 @@
                     <?php // bloginfo('description'); ?>
                 </div>
 
+                <?php // get_sidebar ('header');?>
+
             </div>
 
             <nav role="navigation" class="navigation">
