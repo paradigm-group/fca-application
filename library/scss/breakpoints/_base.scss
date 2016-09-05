@@ -16,11 +16,11 @@ GENERAL STYLES
 *********************/
 
 body {
-	font-family: $lato;
-	font-size: 100%;
+	font-family: $montserrat;
+    font-size: calc(1em + 1vw);
 	line-height: 1.5;
 	color: $text-color;
-	background-color: $body-bg;
+	background-color: $white;
     -webkit-font-smoothing: antialiased;
 }
 
