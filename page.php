@@ -12,8 +12,8 @@
 
                     <header class="article-header">
 
-                        <h1 class="entry-title single-title" itemprop="headline">
-                            <a href="<?php the_permalink() ?>" rel="bookmark" title="<?php the_title_attribute(); ?>"><?php the_title(); ?></a>
+                        <h1 class="entry-title page-title" itemprop="headline">
+                            <?php the_title(); ?>
                         </h1>
 
                     </header> <?php // end article header ?>
