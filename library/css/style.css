@@ -623,7 +623,7 @@ Stylesheet: Layout Stylesheet
   display: flex;
   -webkit-flex-direction: row;
   flex-direction: row;
-  max-width: 77.5em;
+  max-width: 50em;
   margin: 0 auto; }
 
 .logo-container {
