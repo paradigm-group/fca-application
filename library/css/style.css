@@ -985,7 +985,8 @@ h5 {
 HEADER STYLES
 *********************/
 .header {
-  background-color: #bc1739; }
+  background-color: #bc1739;
+  color: #fff; }
   .header a {
     color: #fff; }
 
