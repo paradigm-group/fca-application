@@ -984,8 +984,10 @@ h5 {
 /*********************
 HEADER STYLES
 *********************/
-.header a {
-  color: #fff; }
+.header {
+  background-color: #bc1739; }
+  .header a {
+    color: #fff; }
 
 /*********************
 NAVIGATION STYLES
