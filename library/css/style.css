@@ -634,7 +634,7 @@ Stylesheet: Layout Stylesheet
   padding: 0 1em; }
 
 .sidebar-header {
-  flex-basis: 25%;
+  flex-basis: 100%;
   padding: 0 1em; }
 
 .full {
