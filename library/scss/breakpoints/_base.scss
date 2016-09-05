@@ -170,8 +170,12 @@ the navs on the site so our css is cleaner
 and more scalable.
 */
 
-.nav {
+.navigation {
     background: $nav-bg;
+}
+
+.nav {
+
     margin:0;
     list-style-type: none;
     padding: initial;
