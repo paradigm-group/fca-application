@@ -46,7 +46,7 @@
                     <p id="logo"><a href="<?php echo home_url(); ?>" rel="nofollow"><?php bloginfo('name'); ?></a></p>
 
                     <?php // if you'd like to use the site description you can un-comment it below ?>
-                    <?php // bloginfo('description'); ?>
+                    <?php bloginfo('description'); ?>
                 </div>
 
                 <?php // get_sidebar ('header');?>
