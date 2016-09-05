@@ -901,7 +901,7 @@ body {
 #wpadminbar,
 li + li,
 span + span {
-  margin-top: initial; }
+  margin-top: auto; }
 
 /********************
 WORDPRESS BODY CLASSES
