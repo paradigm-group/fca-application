@@ -53,3 +53,7 @@ header.php file to see what they are:
 .lt-ie8 .class { ... }
 
 */
+
+li + li {
+    margin-top: 0;
+}
