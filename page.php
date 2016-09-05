@@ -16,6 +16,12 @@
                             <?php the_title(); ?>
                         </h1>
 
+                        <?php
+if ( function_exists('yoast_breadcrumb') ) {
+     yoast_breadcrumb('<p id="breadcrumbs">','</p>');
+}
+?>
+
                     </header> <?php // end article header ?>
 
                     <div class="entry-content" itemprop="articleBody">
