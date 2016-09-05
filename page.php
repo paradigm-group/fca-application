@@ -4,7 +4,7 @@
 
         <div id="inner-content" class="container">
 
-            <div class="full" role="main">
+            <div class="main" role="main">
 
                 <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 
@@ -43,7 +43,7 @@
 
             </div>
 
-            <?php// get_sidebar(); ?>
+            <?php get_sidebar(); ?>
 
         </div>
 
